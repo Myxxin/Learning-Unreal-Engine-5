@@ -60,5 +60,5 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 * Quixel
 
 ### VFX / Creative Coding
-[Yu Fujishiro - Generative Motion Graphics](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/)
+[Yu Fujishiro - Generative Motion Graphics Corse](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) + [YouTube Channel](https://www.youtube.com/@YFJSR/featured)
 
