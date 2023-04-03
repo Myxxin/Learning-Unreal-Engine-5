@@ -54,6 +54,11 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 [Unreal Sensei - Unreal Engine 5 Beginner Tutorial](https://www.youtube.com/watch?v=k-zMkzmduqI)
 
 ### Environments
+
+[Peter Tran - Building a Cinematic Environment in UE4](https://www.artstation.com/learning/courses/Vya/building-a-cinematic-environment-with-ue4/chapters/LDb7/intro)
+* free
+* *best look*
+
 #### Landscape + Foliage
 [Michael Gerard Courses](https://www.artstation.com/michael_g_art/store?tab=products)
 * Speedtree
@@ -66,11 +71,6 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 * Substance 3D
 * ZBrush
 * Photoshop
-
-[Peter Tran - Building a Cinematic Environment in UE4](https://www.artstation.com/learning/courses/Vya/building-a-cinematic-environment-with-ue4/chapters/LDb7/intro)
-* free
-* best look *o*
-
 
 ### VFX / Creative Coding
 [Yu Fujishiro - Generative Motion Graphics Corse](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) + [YouTube Channel](https://www.youtube.com/@YFJSR/featured)
