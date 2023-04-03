@@ -24,3 +24,5 @@ Visual Inspiration
 ![image](https://user-images.githubusercontent.com/93442123/229542070-c94ed97d-fc49-43b5-8ddc-8edf794bd448.png)
 
 [female pertinento](https://www.youtube.com/watch?v=mVhoXUIsWHc)
+
+![mushishi 1](https://media.tenor.com/f7twf9eMqkAAAAAC/mushishi.gif) ![mushishi 2](https://media.tenor.com/YkuBdteRRrMAAAAC/mushishi.gif)
