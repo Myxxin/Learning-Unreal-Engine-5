@@ -37,3 +37,7 @@ https://user-images.githubusercontent.com/93442123/229545507-dcc3dae9-d66e-4c07-
 
 [Reuben Wu](https://www.instagram.com/Reuben/)
 
+![image](https://user-images.githubusercontent.com/93442123/229548338-36c6b078-63f4-4729-991a-c9165401e198.png)
+[Albin Merle - procedural jellyfish](https://www.youtube.com/watch?v=G-7q4aDKWac)
+
+
