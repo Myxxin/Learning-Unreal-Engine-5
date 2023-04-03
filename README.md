@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 ### Post-Processing
 [Alec Tucker - Cinematic Post Processing in UE4](https://www.artstation.com/blogs/alectucker/N3Qw/cinematic-post-processing-tips-tricks-in-ue4-part-1)
 
-[William Faucher - Everything Cinematic YouTube Account ny  d. I
+[William Faucher - Everything Cinematic YouTube Account ny  d. I](https://www.youtube.com/@WilliamFaucher/videos)
 
 ### Stylizations
 [Epic - Stylized Materials](https://dev.epicgames.com/community/learning/tutorials/Gxm9/stylized-materials-for-linear-content-development)
