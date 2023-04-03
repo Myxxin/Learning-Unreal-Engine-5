@@ -83,3 +83,21 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 * Houdini
 * Substance 3D
 
+### Lighting
+[Tilmann Milde - Ultimate Lighting Course](https://www.artstation.com/marketplace/p/aJ9lD/ultimate-lighting-course-in-depth-tutorial)
+
+### Post-Processing
+[Alec Tucker - Cinematic Post Processing in UE4](https://www.artstation.com/blogs/alectucker/N3Qw/cinematic-post-processing-tips-tricks-in-ue4-part-1)
+
+[William Faucher - Everything Cinematic YouTube Account ny  d. I
+
+### Stylizations
+[Epic - Stylized Materials](https://dev.epicgames.com/community/learning/tutorials/Gxm9/stylized-materials-for-linear-content-development)
+
+### misc
+[Epic - Careers in Fashion](https://dev.epicgames.com/community/learning/courses/6Lb/unreal-engine-unreal-futures-careers-in-fashion/18eV/introduction-to-fashion-with-unreal-engine)
+
+
+
+
+
