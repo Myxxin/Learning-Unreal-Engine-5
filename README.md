@@ -15,3 +15,8 @@
   * audio-interactive
 * Multi-stem dynamic audio
 * **Virtual Production**
+
+Visual Inspiration
+
+![Peter Tran](https://cdnb.artstation.com/p/assets/images/images/030/625/545/large/peter-tran-highresscreenshot00039.jpg?1601167991)
+[Peter Tran](https://www.artstation.com/petertran)
