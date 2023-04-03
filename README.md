@@ -61,4 +61,12 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 
 ### VFX / Creative Coding
 [Yu Fujishiro - Generative Motion Graphics Corse](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) + [YouTube Channel](https://www.youtube.com/@YFJSR/featured)
+* Blueprint-based
+
+[Vince Petrelli - Niagara VFX Course](https://www.udemy.com/course/unreal-engine-5-one-course-solution-for-niagara-vfx/)
+* Niagara-based
+
+[Overdrawn.xyz - Advanced VFX in Unreal Engine Course](https://www.overdraw.xyz/training/advancedvfxinunrealmateria)
+* Houdini
+* Substance Designer
 
