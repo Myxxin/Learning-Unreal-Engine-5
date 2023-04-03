@@ -25,8 +25,15 @@ Visual Inspiration
 
 [female pertinento](https://www.youtube.com/watch?v=mVhoXUIsWHc)
 
-![mushishi 1](https://media.tenor.com/f7twf9eMqkAAAAAC/mushishi.gif) ![mushishi 2](https://media.tenor.com/YkuBdteRRrMAAAAC/mushishi.gif)
-
 ![image](https://user-images.githubusercontent.com/93442123/229544027-6aedb2b6-669c-4358-912a-159365de89ec.png)
 
 [Oklou](https://www.youtube.com/watch?v=_ukZYoxfyto)
+
+![mushishi 1](https://media.tenor.com/f7twf9eMqkAAAAAC/mushishi.gif) ![mushishi 2](https://media.tenor.com/YkuBdteRRrMAAAAC/mushishi.gif)
+
+Mushishi
+
+https://user-images.githubusercontent.com/93442123/229545507-dcc3dae9-d66e-4c07-8055-fec5bce4b68d.mp4
+
+[Reuben Wu](https://www.instagram.com/Reuben/)
+
