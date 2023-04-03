@@ -5,5 +5,5 @@
   * mixture of megascans and self-made assets
     * Juxtaposition of different rendering styles?
   * Hyperrealistic and matic post processing
-  * Hyerrealistic and dramatic lighting
+  * Hyperrealistic and dramatic lighting
     * dynamic emissive and vfx lighting
