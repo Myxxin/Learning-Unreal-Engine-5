@@ -52,12 +52,25 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 ## Ressources
 ### Introduction
 [Unreal Sensei - Unreal Engine 5 Beginner Tutorial](https://www.youtube.com/watch?v=k-zMkzmduqI)
+
 ### Environments
 #### Landscape + Foliage
 [Michael Gerard Courses](https://www.artstation.com/michael_g_art/store?tab=products)
 * Speedtree
 * Gaea
 * Quixel
+
+#### Kitbash Assets
+[Nextful - Game Environments Art Masterclass](https://www.udemy.com/course/game-environments-art-masterclass/#instructor-1)
+* Blender
+* Substance 3D
+* ZBrush
+* Photoshop
+
+[Peter Tran - Building a Cinematic Environment in UE4](https://www.artstation.com/learning/courses/Vya/building-a-cinematic-environment-with-ue4/chapters/LDb7/intro)
+* free
+* best look *o*
+
 
 ### VFX / Creative Coding
 [Yu Fujishiro - Generative Motion Graphics Corse](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) + [YouTube Channel](https://www.youtube.com/@YFJSR/featured)
@@ -68,5 +81,5 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 
 [Overdrawn.xyz - Advanced VFX in Unreal Engine Course](https://www.overdraw.xyz/training/advancedvfxinunrealmateria)
 * Houdini
-* Substance Designer
+* Substance 3D
 
