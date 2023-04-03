@@ -13,3 +13,4 @@
   * fire
   * light
   * audio-interactive
+* Multi-stem dynamic audio
