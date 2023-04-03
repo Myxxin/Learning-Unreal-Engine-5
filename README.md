@@ -16,7 +16,7 @@
 * Multi-stem dynamic audio
 * **Virtual Production**
 
-Visual Inspiration
+## Visual Inspiration
 
 ![Peter Tran](https://cdnb.artstation.com/p/assets/images/images/030/625/545/large/peter-tran-highresscreenshot00039.jpg?1601167991)
 [Peter Tran](https://www.artstation.com/petertran)  
@@ -49,5 +49,16 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 [Yuma Yanagisawa](https://www.instagram.com/yumayanagisawa/)
 
 
+## Ressources
+### Introduction
+[Unreal Sensei - Unreal Engine 5 Beginner Tutorial](https://www.youtube.com/watch?v=k-zMkzmduqI)
+### Environments
+#### Landscape + Foliage
+[Michael Gerard Courses](https://www.artstation.com/michael_g_art/store?tab=products)
+* Speedtree
+* Gaea
+* Quixel
 
+### VFX / Creative Coding
+[Yu Fujishiro - Generative Motion Graphics](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/)
 
