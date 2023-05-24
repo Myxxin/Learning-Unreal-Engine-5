@@ -59,6 +59,8 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 * free
 * *best look*
 
+https://www.artstation.com/marketplace/p/8Nb7z/complete-introduction-to-environment-art-tutorial-course
+
 #### Landscape + Foliage
 [Michael Gerard Courses](https://www.artstation.com/michael_g_art/store?tab=products)
 * Speedtree
