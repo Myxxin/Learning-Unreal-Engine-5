@@ -53,6 +53,22 @@ https://user-images.githubusercontent.com/93442123/229550745-c09a5f59-5774-42ee-
 ### Introduction
 [Unreal Sensei - Unreal Engine 5 Beginner Tutorial](https://www.youtube.com/watch?v=k-zMkzmduqI)
 
+This course provided a good introduction to the Unreal Engine UI and UX, to Lighting, Materials, Blueprints and Environment art. 
+
+![image](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/7add2f34-1d47-4e59-bbaf-c7f008ff80bd)
+![image](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/4580de29-f6be-420e-b4ec-71cc145d2984)
+![image](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/18477b25-1561-4155-abb7-0c1b6592cbf3)
+
+
+I decided to abandon the environment and to skip the final details and the rendering. Though I managed to give the scenen a little bit of an identity with the sky and the lighting, it wasn't really my cup of tea, especially in terms of workflow. I however still learned a lot, especially regarding my plans going forward:
+
+* I enjoy working with foliage and want to learn how to create realistic biomes
+* I really enjoy lighting scenes with lumen
+* I enjoy the Unreal engine UI
+* I don't enjoy working with Kitbash assets such as the castle, I'd rather create finished assets in Blender.
+
+Overall, I spent 15h on this introduction of which about 10h where spent on the final environment due to the very manual workflow. 
+
 ### Environments
 
 [Peter Tran - Building a Cinematic Environment in UE4](https://www.artstation.com/learning/courses/Vya/building-a-cinematic-environment-with-ue4/chapters/LDb7/intro)
