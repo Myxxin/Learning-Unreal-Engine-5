@@ -83,6 +83,12 @@ https://www.artstation.com/marketplace/p/8Nb7z/complete-introduction-to-environm
 * Gaea
 * Quixel
 
+
+
+https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/7d9261df-705f-45f1-9489-136413ee8e22
+
+
+
 #### Kitbash Assets
 [Nextful - Game Environments Art Masterclass](https://www.udemy.com/course/game-environments-art-masterclass/#instructor-1)
 * Blender
