@@ -87,6 +87,7 @@ https://www.artstation.com/marketplace/p/8Nb7z/complete-introduction-to-environm
 
 https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/7d9261df-705f-45f1-9489-136413ee8e22
 
+[Link to documentation.](../Learning-Unreal-Engine-5/docs/gerard_forrest.md)
 
 ![SM_Fern_1a](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/0fe66c1e-5371-49d9-91c9-080504bbe3e2)
 
