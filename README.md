@@ -89,6 +89,19 @@ https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/7d9261df-705f
 
 [Link to documentation.](/docs/gerard_forrest.md)
 
+[Multiple Speedtree tidbits](https://www.youtube.com/@AdrienLambertvfx)
+I was interested in "finishing" my studies on Speedtree with some of [their official training videos](https://www.youtube.com/@SpeedTreeMiddleware) and the account linked above.
+I was in particular interested in how to add additional detail such as vines, moss and mushrooms to a tree. My final result looks like this:
+
+![StylizedTree](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/f2a2820b-1eae-4c3b-9e8b-446ca7cf5df6)
+
+It's a somewhat rediculous tree now, but I will return to it to reference some of these new techniques I learned.
+
+Overall, this took me 20 hours. 
+
+
+
+
 #### Kitbash Assets
 [Nextful - Game Environments Art Masterclass](https://www.udemy.com/course/game-environments-art-masterclass/#instructor-1)
 * Blender
