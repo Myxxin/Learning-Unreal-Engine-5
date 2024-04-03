@@ -7,8 +7,15 @@ https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/8a65bc4d-a17a
 https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/6af97ad8-4d5a-4b05-93b1-701025d2cc6f
 
 
+I became interested in [Michael Gerard's Ultimate Forest Course](https://www.artstation.com/marketplace/p/z2BWr/unreal-complete-scene-forest-environment) and foliage for the same reason Unreal piqued my interest in the first place: The ability to render countless of high-poly assets in real-time. Epic's [Electric Dreams Demo](https://www.youtube.com/watch?v=8tBNZhuWMac) in particular inspired me greatly. Michael Gerard is a foliage artist who has previously worked at Ubisoft. 
+Foliage in games and VFX is a very interesting technical challenge due the complexity of plants. It requires the combination of static and animated meshes, opaque and translucent materials, highly detailled modelling with simple-as-possible atlases. 
+Nowadays, there are large  libraries of foliage assets readily available, in the context of Unreal Engine most notably Quixel Megascans. 
+Nontheless, I'm convinced that custom foliage assets are worth the affort and can alleviate a project's art direction as much as any other asset, just like how garden architechture and even single plants have been used to artistically express ideas for centuries:
 
-I enjoyed the course, but it was also a lot of work. 
+
+![image](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/e3b2a609-30b8-4734-8dda-b344e4d10d35)
+
+I enjoyed the course, but it was also a lot of work. I spent a total of 95 hours with this course, of which 60 were taken up by course videos themselves (the length has been reduced to 51 as of now, as described on the artstation page). In addition, I spent 20 hours to further my Speedtree knowledge as detailed at the end of the documentation. 
 
 In the first third I learned the basics of Speedtree, which is a procedural software specific for the creation of vegetation assets.
 
@@ -61,6 +68,18 @@ https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/87681b6c-f309
 I will probably return to the this project to redo the lighting at some point to achieve a more realistic result compared to the game-y look above. 
 In total, I spent about 95 hours with this course. 
 
+## Additional Speedtree Learning
+[Multiple Speedtree tidbits](https://www.youtube.com/@AdrienLambertvfx)
+I was interested in "finishing" my studies on Speedtree with some of [their official training videos](https://www.youtube.com/@SpeedTreeMiddleware) and the account linked above.
+I was in particular interested in how to add additional detail such as vines, moss and mushrooms to a tree. My final result looks like this:
+
+![StylizedTree](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/f2a2820b-1eae-4c3b-9e8b-446ca7cf5df6)
+
+It's a somewhat rediculous tree now, but I will return to it to reference some of these new techniques I learned.
+
+Overall, this took me 20 hours. 
+
+## Outtakes
 Here are some lowquality render of all my assets and some extras :)
 ![SM_Grass_1a](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/43748740-01ec-4f9a-a18e-924ca645eea8)
 ![SM_Daisy_1a](https://github.com/Myxxin/Learning-Unreal-Engine-5/assets/93442123/c32ed41f-b993-465b-a645-13a3709e6915)
